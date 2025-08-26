@@ -75,4 +75,5 @@ nav:
      - frameworks/Apache Flink/flank.md
      - frameworks/Apache Kafka/kafka.md
      - frameworks/Apache Wayang/wayang.md
-
+  - Data Structure and Algorithms:
+     - datastructureAndalgorithm/Quest-1.md
