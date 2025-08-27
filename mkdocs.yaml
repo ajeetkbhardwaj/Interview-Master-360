@@ -70,6 +70,8 @@ nav:
      - mlPractice/intro.md
      - mlSystems/Quest-9.md
      - mlSystems/Quest-10.md 
+  - DL Systems:
+     - dlArchitectures/Prob-1.md
   - Frameworks:
      - frameworks/Apache AirFlow/airflow.md
      - frameworks/Apache Flink/flank.md
