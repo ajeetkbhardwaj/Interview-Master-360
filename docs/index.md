@@ -208,3 +208,9 @@ Below is the list of internet online website and offline resources, used to prac
 
 1. https://www.deep-ml.com/problems
 2. https://www.deep-ml.com/deep-0
+3. https://machinelearningmastery.com/#
+
+### Data Structures and Algorithms
+1. [dsa by w3schools](https://www.w3schools.com/dsa/index.php)
+2. [dsa by tutorials](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+3. [dsa by geekforgeek](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
