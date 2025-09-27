@@ -64,18 +64,13 @@ copyright: Copyright &copy; 2025 Ajeet Kumar
 
 nav:
   - Home: index.md
+  - Programming:
+     - programming/oops.md
   - ML Systems: 
-     - mlFoundation/intro.md
-     - mlAlgorithms/intro.md
-     - mlPractice/intro.md
-     - mlSystems/Quest-9.md
-     - mlSystems/Quest-10.md 
-  - DL Systems:
-     - dlArchitectures/Prob-1.md
+     - mlsystems/Quest-9.md
+     - mlsystems/Quest-10.md
   - Frameworks:
      - frameworks/Apache AirFlow/airflow.md
      - frameworks/Apache Flink/flank.md
      - frameworks/Apache Kafka/kafka.md
      - frameworks/Apache Wayang/wayang.md
-  - Data Structure and Algorithms:
-     - datastructureAndalgorithm/Quest-1.md

@@ -2,50 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/datastructureAndalgorithm/Quest-1/</loc>
-         <lastmod>2025-08-27</lastmod>
-    </url>
-    <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/dlArchitectures/Prob-1/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/dlsystems/Prob-1/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
          <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/frameworks/Apache%20AirFlow/airflow/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
          <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/frameworks/Apache%20Flink/flank/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
          <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/frameworks/Apache%20Kafka/kafka/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
          <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/frameworks/Apache%20Wayang/wayang/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlAlgorithms/intro/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlsystems/Quest-10/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlFoundation/intro/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlsystems/Quest-9/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlPractice/intro/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/programming/Quest-1/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlSystems/Quest-10/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/programming/cpp/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
     <url>
-         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/mlSystems/Quest-9/</loc>
-         <lastmod>2025-08-27</lastmod>
+         <loc>https://ajeetkbhardwaj.github.io/Interview-Master-360/programming/oops/</loc>
+         <lastmod>2025-09-27</lastmod>
     </url>
 </urlset>
